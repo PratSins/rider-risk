@@ -1,0 +1,13 @@
+# Exclude the specific JSON file
+rider-risk-main1-firebase-adminsdk-4q404-3447d70fcb.json
+
+# Exclude the specific Python file
+const_path.py
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
